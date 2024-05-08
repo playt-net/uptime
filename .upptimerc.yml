@@ -36,6 +36,6 @@ status-website:
   cname: status.playt.net
   logoUrl: https://avatars.githubusercontent.com/u/81310488?s=200&v=4
   name: Playt.net Uptime Monitor
-
+  theme: light
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
