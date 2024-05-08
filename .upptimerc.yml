@@ -30,7 +30,8 @@ sites:
     url: https://thissitedoesnotexist123.koj.co
 
 assignees:
-  - playt-net/developer
+  - boredland
+  - phlgr
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
