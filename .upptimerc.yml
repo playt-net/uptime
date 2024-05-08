@@ -25,9 +25,7 @@ sites:
   - name: Solitaire Jack
     url: https://cardgame.games.playt.net
   - name: Derby Classic
-    url: https://camel-race.games.playt.net  
-  - name: This site does not exist 2
-    url: https://thissitedoesnotexist123.koj.co
+    url: https://camel-race.games.playt.net
 
 assignees:
   - boredland
