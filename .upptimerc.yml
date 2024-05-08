@@ -1,27 +1,37 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: playt-net
+repo: uptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  - name: Playt
+    url: https://playt.net
+  - name: Clash Paradise
+    url: https://clashparadise.io
+  - name: Trinity Swap
+    url: https://swap3.games.playt.net
+  - name: Stack Jumper
+    url: https://stackgame.games.playt.net
+  - name: Desert Racer
+    url: https://racer.games.playt.net
+  - name: Cupcaker
+    url: https://packager.games.playt.net
+  - name: Birdie Ball
+    url: https://minigolf.games.playt.net
+  - name: Cube Machine
+    url: https://mewtrix.games.playt.net
+  - name: Beach Basher
+    url: https://gembasher.games.playt.net
+  - name: Cook Faster
+    url: https://cooking.games.playt.net
+  - name: Solitaire Jack
+    url: https://cardgame.games.playt.net
+  - name: Derby Classic
+    url: https://camel-race.games.playt.net
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.playt.net
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
