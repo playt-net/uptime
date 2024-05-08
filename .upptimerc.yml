@@ -25,7 +25,9 @@ sites:
   - name: Solitaire Jack
     url: https://cardgame.games.playt.net
   - name: Derby Classic
-    url: https://camel-race.games.playt.net
+    url: https://camel-race.games.playt.net  
+  - name: This site does not exist 
+    url: https://thissitedoesnotexist.koj.co
 
 assignees:
   - developer
