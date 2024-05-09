@@ -40,18 +40,20 @@
     "url": "https://swap3.games.playt.net",
     "icon": "https://icons.duckduckgo.com/ip3/swap3.games.playt.net.ico",
     "slug": "trinity-swap",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 1029,
     "timeDay": 1029,
     "timeWeek": 1029,
     "timeMonth": 1029,
     "timeYear": 1029,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-09": 2
+    }
   },
   {
     "name": "Stack Jumper",
