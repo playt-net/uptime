@@ -38,6 +38,24 @@
     }
   },
   {
+    "name": "Clash Paradise (www)",
+    "url": "https://www.clashparadise.io",
+    "icon": "https://icons.duckduckgo.com/ip3/www.clashparadise.io.ico",
+    "slug": "clash-paradise-www",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 643,
+    "timeDay": 643,
+    "timeWeek": 643,
+    "timeMonth": 643,
+    "timeYear": 643,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Trinity Swap",
     "url": "https://swap3.games.playt.net",
     "icon": "https://icons.duckduckgo.com/ip3/swap3.games.playt.net.ico",
