@@ -6,6 +6,9 @@ sites:
     url: https://playt.net
   - name: Clash Paradise
     url: https://clashparadise.io
+  # Tracking www. separately, so we can perform experiments and know when they failed
+  - name: Clash Paradise (www)
+    url: https://www.clashparadise.io
   - name: Trinity Swap
     url: https://swap3.games.playt.net
   - name: Stack Jumper
