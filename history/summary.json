@@ -43,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.clashparadise.io.ico",
     "slug": "clash-paradise-www",
     "status": "up",
-    "uptime": "98.34%",
-    "uptimeDay": "98.34%",
-    "uptimeWeek": "98.34%",
-    "uptimeMonth": "98.34%",
-    "uptimeYear": "98.34%",
+    "uptime": "98.36%",
+    "uptimeDay": "98.36%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "98.36%",
+    "uptimeYear": "98.36%",
     "time": 612,
     "timeDay": 612,
     "timeWeek": 612,
@@ -56,6 +56,24 @@
     "dailyMinutesDown": {
       "2024-05-22": 21
     }
+  },
+  {
+    "name": "Clash Paradise (staging)",
+    "url": "https://staging.clashparadise.io",
+    "icon": "https://icons.duckduckgo.com/ip3/staging.clashparadise.io.ico",
+    "slug": "clash-paradise-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1035,
+    "timeDay": 1035,
+    "timeWeek": 1035,
+    "timeMonth": 1035,
+    "timeYear": 1035,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Trinity Swap",
@@ -78,6 +96,24 @@
       "2024-05-10": 15,
       "2024-05-09": 24
     }
+  },
+  {
+    "name": "Trinity Swap (staging)",
+    "url": "https://swap3.games.staging.playt.net",
+    "icon": "https://icons.duckduckgo.com/ip3/swap3.games.staging.playt.net.ico",
+    "slug": "trinity-swap-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 688,
+    "timeDay": 688,
+    "timeWeek": 688,
+    "timeMonth": 688,
+    "timeYear": 688,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stack Jumper",
@@ -104,6 +140,24 @@
     }
   },
   {
+    "name": "Stack Jumper (staging)",
+    "url": "https://stackgame.games.staging.playt.net",
+    "icon": "https://icons.duckduckgo.com/ip3/stackgame.games.staging.playt.net.ico",
+    "slug": "stack-jumper-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 740,
+    "timeDay": 740,
+    "timeWeek": 740,
+    "timeMonth": 740,
+    "timeYear": 740,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Desert Racer",
     "url": "https://racer.games.playt.net",
     "icon": "https://icons.duckduckgo.com/ip3/racer.games.playt.net.ico",
@@ -125,6 +179,24 @@
     }
   },
   {
+    "name": "Desert Racer (staging)",
+    "url": "https://racer.games.staging.playt.net",
+    "icon": "https://icons.duckduckgo.com/ip3/racer.games.staging.playt.net.ico",
+    "slug": "desert-racer-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 572,
+    "timeDay": 572,
+    "timeWeek": 572,
+    "timeMonth": 572,
+    "timeYear": 572,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Cupcaker",
     "url": "https://packager.games.playt.net",
     "icon": "https://icons.duckduckgo.com/ip3/packager.games.playt.net.ico",
@@ -144,6 +216,24 @@
       "2024-05-17": 8,
       "2024-05-10": 20
     }
+  },
+  {
+    "name": "Cupcaker (staging)",
+    "url": "https://packager.games.staging.playt.net",
+    "icon": "https://icons.duckduckgo.com/ip3/packager.games.staging.playt.net.ico",
+    "slug": "cupcaker-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 544,
+    "timeDay": 544,
+    "timeWeek": 544,
+    "timeMonth": 544,
+    "timeYear": 544,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Birdie Ball",
@@ -168,6 +258,24 @@
     }
   },
   {
+    "name": "Birdie Ball (staging)",
+    "url": "https://minigolf.games.staging.playt.net",
+    "icon": "https://icons.duckduckgo.com/ip3/minigolf.games.staging.playt.net.ico",
+    "slug": "birdie-ball-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 776,
+    "timeDay": 776,
+    "timeWeek": 776,
+    "timeMonth": 776,
+    "timeYear": 776,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Cube Machine",
     "url": "https://mewtrix.games.playt.net",
     "icon": "https://icons.duckduckgo.com/ip3/mewtrix.games.playt.net.ico",
@@ -189,6 +297,24 @@
       "2024-05-10": 12,
       "2024-05-09": 14
     }
+  },
+  {
+    "name": "Cube Machine (staging)",
+    "url": "https://mewtrix.games.staging.playt.net",
+    "icon": "https://icons.duckduckgo.com/ip3/mewtrix.games.staging.playt.net.ico",
+    "slug": "cube-machine-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 543,
+    "timeDay": 543,
+    "timeWeek": 543,
+    "timeMonth": 543,
+    "timeYear": 543,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Beach Basher",
@@ -215,6 +341,24 @@
     }
   },
   {
+    "name": "Beach Basher (staging)",
+    "url": "https://gembasher.games.staging.playt.net",
+    "icon": "https://icons.duckduckgo.com/ip3/gembasher.games.staging.playt.net.ico",
+    "slug": "beach-basher-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 381,
+    "timeDay": 381,
+    "timeWeek": 381,
+    "timeMonth": 381,
+    "timeYear": 381,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Cook Faster",
     "url": "https://cooking.games.playt.net",
     "icon": "https://icons.duckduckgo.com/ip3/cooking.games.playt.net.ico",
@@ -234,6 +378,24 @@
       "2024-05-11": 11,
       "2024-05-09": 11
     }
+  },
+  {
+    "name": "Cook Faster (staging)",
+    "url": "https://cooking.games.staging.playt.net",
+    "icon": "https://icons.duckduckgo.com/ip3/cooking.games.staging.playt.net.ico",
+    "slug": "cook-faster-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 510,
+    "timeDay": 510,
+    "timeWeek": 510,
+    "timeMonth": 510,
+    "timeYear": 510,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Solitaire Jack",
@@ -257,24 +419,62 @@
     }
   },
   {
+    "name": "Solitaire Jack (staging)",
+    "url": "https://cardgame.games.staging.playt.net",
+    "icon": "https://icons.duckduckgo.com/ip3/cardgame.games.staging.playt.net.ico",
+    "slug": "solitaire-jack-staging",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 545,
+    "timeDay": 545,
+    "timeWeek": 545,
+    "timeMonth": 545,
+    "timeYear": 545,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Derby Classic",
     "url": "https://camel-race.games.playt.net",
     "icon": "https://icons.duckduckgo.com/ip3/camel-race.games.playt.net.ico",
     "slug": "derby-classic",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "99.87%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 1317,
     "timeDay": 887,
     "timeWeek": 934,
     "timeMonth": 1317,
     "timeYear": 1317,
     "dailyMinutesDown": {
-      "2024-05-22": 0,
+      "2024-05-22": 18,
       "2024-05-09": 8
+    }
+  },
+  {
+    "name": "Derby Classic (staging)",
+    "url": "https://camel-race.games.staging.playt.net",
+    "icon": "https://icons.duckduckgo.com/ip3/camel-race.games.staging.playt.net.ico",
+    "slug": "derby-classic-staging",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 450,
+    "timeDay": 450,
+    "timeWeek": 450,
+    "timeMonth": 450,
+    "timeYear": 450,
+    "dailyMinutesDown": {
+      "2024-05-22": 7
     }
   }
 ]
