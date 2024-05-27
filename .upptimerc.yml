@@ -9,6 +9,8 @@ sites:
   # Tracking www. separately, so we can perform experiments and know when they failed
   - name: Clash Paradise (www)
     url: https://www.clashparadise.io
+  - name: Clash Paradise (upstream tools)
+    url: https://clashparadise.io/api/status
   - name: Clash Paradise (staging)
     url: https://staging.clashparadise.io
   - name: Trinity Swap
