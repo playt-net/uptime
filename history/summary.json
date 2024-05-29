@@ -154,19 +154,19 @@
     "url": "https://staging.clashparadise.io",
     "icon": "https://icons.duckduckgo.com/ip3/staging.clashparadise.io.ico",
     "slug": "clash-paradise-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 886,
-    "timeDay": 769,
-    "timeWeek": 867,
-    "timeMonth": 886,
-    "timeYear": 886,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.34%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 933,
+    "timeDay": 966,
+    "timeWeek": 922,
+    "timeMonth": 933,
+    "timeYear": 933,
     "dailyMinutesDown": {
-      "2024-05-29": 0
+      "2024-05-29": 24
     }
   },
   {
