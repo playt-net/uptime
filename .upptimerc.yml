@@ -10,62 +10,42 @@ sites:
   - name: Clash Paradise (www)
     url: https://www.clashparadise.io
   - name: Email (primary)
-    url: https://staging.clashparadise.io/api/status/email_primary
+    url: https://clashparadise.io/api/status/email_primary
     __dangerous__body_degraded_if_text_missing: "true"
   - name: Database
-    url: https://staging.clashparadise.io/api/status/database
+    url: https://clashparadise.io/api/status/database
     __dangerous__body_degraded_if_text_missing: "true"
   - name: Email (secondary)
-    url: https://staging.clashparadise.io/api/status/email_secondary
+    url: https://clashparadise.io/api/status/email_secondary
     __dangerous__body_degraded_if_text_missing: "true"
   - name: Containers
-    url: https://staging.clashparadise.io/api/status/containers
+    url: https://clashparadise.io/api/status/containers
     __dangerous__body_degraded_if_text_missing: "true"
   - name: Events
-    url: https://staging.clashparadise.io/api/status/events
+    url: https://clashparadise.io/api/status/events
     __dangerous__body_degraded_if_text_missing: "true"
   - name: Clash Paradise (staging)
     url: https://staging.clashparadise.io
   - name: Trinity Swap
     url: https://swap3.games.playt.net
-  - name: Trinity Swap (staging)
-    url: https://swap3.games.staging.playt.net
   - name: Stack Jumper
     url: https://stackgame.games.playt.net
-  - name: Stack Jumper (staging)
-    url: https://stackgame.games.staging.playt.net
   - name: Desert Racer
     url: https://racer.games.playt.net
-  - name: Desert Racer (staging)
-    url: https://racer.games.staging.playt.net
   - name: Cupcaker
     url: https://packager.games.playt.net
-  - name: Cupcaker (staging)
-    url: https://packager.games.staging.playt.net
   - name: Birdie Ball
     url: https://minigolf.games.playt.net
-  - name: Birdie Ball (staging)
-    url: https://minigolf.games.staging.playt.net
   - name: Cube Machine
     url: https://mewtrix.games.playt.net
-  - name: Cube Machine (staging)
-    url: https://mewtrix.games.staging.playt.net
   - name: Beach Basher
     url: https://gembasher.games.playt.net
-  - name: Beach Basher (staging)
-    url: https://gembasher.games.staging.playt.net
   - name: Cook Faster
     url: https://cooking.games.playt.net
-  - name: Cook Faster (staging)
-    url: https://cooking.games.staging.playt.net
   - name: Solitaire Jack
     url: https://cardgame.games.playt.net
-  - name: Solitaire Jack (staging)
-    url: https://cardgame.games.staging.playt.net
   - name: Derby Classic
     url: https://camel-race.games.playt.net
-  - name: Derby Classic (staging)
-    url: https://camel-race.games.staging.playt.net
 
 workflowSchedule:
   # check uptime every 5 minutes, except 1-3 utc (3-5 gmt+1)
