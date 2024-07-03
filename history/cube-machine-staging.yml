@@ -1,7 +1,7 @@
-url: https://mewtrix.games.staging.playt.net
-status: up
-code: 200
-responseTime: 640
-lastUpdated: 2024-06-04T23:04:16.576Z
+url: https://mewtrix.games.staging.c.playt.net
+status: down
+code: 404
+responseTime: 398
+lastUpdated: 2024-07-03T08:57:09.555Z
 startTime: 2024-05-22T11:34:26.028Z
 generator: Upptime <https://github.com/upptime/upptime>
