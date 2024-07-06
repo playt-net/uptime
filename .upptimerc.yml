@@ -18,9 +18,6 @@ sites:
   - name: Email (secondary)
     url: https://clashparadise.io/api/status/email_secondary
     __dangerous__body_degraded_if_text_missing: "true"
-  - name: Containers
-    url: https://clashparadise.io/api/status/containers
-    __dangerous__body_degraded_if_text_missing: "true"
   - name: Events
     url: https://clashparadise.io/api/status/events
     __dangerous__body_degraded_if_text_missing: "true"
