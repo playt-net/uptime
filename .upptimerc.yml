@@ -63,6 +63,8 @@ sites:
     url: https://cardgame.games.staging.c.playt.net
   - name: Derby Classic (staging)
     url: https://camel-race.games.staging.c.playt.net
+  - name: Test Asset
+    url: https://cdy-staging-images.s3.fr-par.scw.cloud/6315c576a434b3c5d2a652cf/bannerKey
 
 workflowSchedule:
   # check uptime every 5 minutes, except 1-3 utc (3-5 gmt+1)
