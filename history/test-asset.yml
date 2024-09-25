@@ -1,7 +1,7 @@
 url: https://cdy-staging-images.s3.fr-par.scw.cloud/6315c576a434b3c5d2a652cf/bannerKey
-status: down
-code: 503
-responseTime: 720
-lastUpdated: 2024-09-25T05:11:30.203Z
+status: up
+code: 200
+responseTime: 1078
+lastUpdated: 2024-09-25T05:25:26.812Z
 startTime: 2024-07-09T16:20:51.167Z
 generator: Upptime <https://github.com/upptime/upptime>
