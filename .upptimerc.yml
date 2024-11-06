@@ -10,25 +10,25 @@ sites:
   - name: Clash Paradise (www)
     url: https://www.clashparadise.io
   - name: Email (primary)
-    url: https://clashparadise.io/api/status/email_primary
+    url: https://clashparadise.io/api/admin/status/email_primary
     __dangerous__body_degraded_if_text_missing: "true"
   - name: Database
-    url: https://clashparadise.io/api/status/database
+    url: https://clashparadise.io/api/admin/status/database
     __dangerous__body_degraded_if_text_missing: "true"
   - name: Email (secondary)
-    url: https://clashparadise.io/api/status/email_secondary
+    url: https://clashparadise.io/api/admin/status/email_secondary
     __dangerous__body_degraded_if_text_missing: "true"
   - name: Events
-    url: https://clashparadise.io/api/status/events
+    url: https://clashparadise.io/api/admin/status/events
     __dangerous__body_degraded_if_text_missing: "true"
   - name: Queues
-    url: https://clashparadise.io/api/status/queues
+    url: https://clashparadise.io/api/admin/status/queues
     __dangerous__body_degraded_if_text_missing: "true"
-  #- name: DLQ
-  #  url: https://clashparadise.io/api/status/dlq
-  #  __dangerous__body_degraded_if_text_missing: "true"
+  - name: DLQ
+    url: https://clashparadise.io/api/adminstatus/dlq
+    __dangerous__body_degraded_if_text_missing: "true"
   - name: DLQ (staging)
-    url: https://staging.clashparadise.io/api/status/dlq
+    url: https://staging.clashparadise.io/admin/api/status/dlq
     __dangerous__body_degraded_if_text_missing: "true"
   - name: Clash Paradise (staging)
     url: https://staging.clashparadise.io
