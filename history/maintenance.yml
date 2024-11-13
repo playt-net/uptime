@@ -1,7 +1,7 @@
 url: https://5473.staging.clashparadise.io/api/admin/status/maintenance
-status: degraded
-code: 404
-responseTime: 135
-lastUpdated: 2024-11-13T17:32:14.530Z
+status: up
+code: 200
+responseTime: 347
+lastUpdated: 2024-11-13T17:42:06.433Z
 startTime: 2024-11-13T17:32:14.149Z
 generator: Upptime <https://github.com/upptime/upptime>
