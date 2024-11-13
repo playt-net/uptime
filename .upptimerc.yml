@@ -95,8 +95,7 @@ workflowSchedule:
   uptime: "*/5 4-12,16-23 * * *"
   
 assignees:
-  - boredland
-  - phlgr
+  - developer
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
