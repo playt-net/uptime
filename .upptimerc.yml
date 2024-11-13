@@ -9,18 +9,30 @@ sites:
   # Tracking www. separately, so we can perform experiments and know when they failed
   - name: Clash Paradise (www)
     url: https://www.clashparadise.io
-  - name: Email (primary)
-    url: https://clashparadise.io/api/admin/status/email_primary
-    __dangerous__body_degraded_if_text_missing: "true"
   - name: Database
-    url: https://clashparadise.io/api/admin/status/database
-    __dangerous__body_degraded_if_text_missing: "true"
-  - name: Email (secondary)
-    url: https://clashparadise.io/api/admin/status/email_secondary
-    __dangerous__body_degraded_if_text_missing: "true"
+    url: https://5473.staging.clashparadise.io/api/admin/status/database
+    __dangerous__body_degraded_if_text_missing: "operational"
+    __dangerous__body_down: "outage"
+  - name: Database (proxy)
+    url: https://5473.staging.clashparadise.io/api/admin/status/database-proxy
+    __dangerous__body_degraded_if_text_missing: "operational"
+    __dangerous__body_down: "outage"
   - name: Events
-    url: https://clashparadise.io/api/admin/status/events
-    __dangerous__body_degraded_if_text_missing: "true"
+    url: https://5473.staging.clashparadise.io/api/admin/status/events
+    __dangerous__body_degraded_if_text_missing: "operational"
+    __dangerous__body_down: "outage"
+  - name: Compute
+    url: https://5473.staging.clashparadise.io/api/admin/status/compute
+    __dangerous__body_degraded_if_text_missing: "operational"
+    __dangerous__body_down: "outage"
+  - name: Email (primary)
+    url: https://5473.staging.clashparadise.io/api/admin/status/email_primary
+    __dangerous__body_degraded_if_text_missing: "operational"
+    __dangerous__body_down: "outage"
+  - name: Email (secondary)
+    url: https://5473.staging.clashparadise.io/api/admin/status/email_secondary
+    __dangerous__body_degraded_if_text_missing: "operational"
+    __dangerous__body_down: "outage"
   - name: Queues
     url: https://clashparadise.io/api/admin/status/queues
     __dangerous__body_degraded_if_text_missing: "true"
