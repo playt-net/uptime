@@ -1,7 +1,7 @@
 url: https://clashparadise.io/api/admin/status/email_primary
-status: degraded
-code: 503
-responseTime: 20
-lastUpdated: 2024-11-13T07:00:16.133Z
+status: up
+code: 200
+responseTime: 341
+lastUpdated: 2024-11-13T08:02:27.655Z
 startTime: 2024-05-27T20:10:09.147Z
 generator: Upptime <https://github.com/upptime/upptime>
