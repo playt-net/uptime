@@ -1,7 +1,7 @@
-url: https://5473.staging.clashparadise.io/api/admin/status/database-proxy
-status: up
-code: 200
-responseTime: 2060
-lastUpdated: 2024-11-13T23:04:00.719Z
+url: https://staging.clashparadise.io/api/admin/status/database-proxy
+status: degraded
+code: 404
+responseTime: 137
+lastUpdated: 2024-11-14T10:52:23.227Z
 startTime: 2024-11-13T17:32:11.781Z
 generator: Upptime <https://github.com/upptime/upptime>
