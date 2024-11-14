@@ -1,7 +1,7 @@
 url: https://5473.staging.clashparadise.io/api/admin/status/database
-status: up
+status: degraded
 code: 200
-responseTime: 608
-lastUpdated: 2024-11-13T23:03:58.476Z
+responseTime: 995
+lastUpdated: 2024-11-14T10:43:04.637Z
 startTime: 2024-05-27T20:10:10.851Z
 generator: Upptime <https://github.com/upptime/upptime>
