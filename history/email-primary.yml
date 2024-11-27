@@ -1,7 +1,7 @@
 url: https://staging.clashparadise.io/api/admin/status/email_primary
-status: degraded
+status: up
 code: 200
-responseTime: 367
-lastUpdated: 2024-11-26T23:04:01.171Z
+responseTime: 406
+lastUpdated: 2024-11-27T09:26:38.132Z
 startTime: 2024-05-27T20:10:09.147Z
 generator: Upptime <https://github.com/upptime/upptime>
