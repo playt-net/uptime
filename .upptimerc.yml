@@ -10,31 +10,31 @@ sites:
   - name: Clash Paradise (www)
     url: https://www.clashparadise.io
   - name: Database
-    url: https://staging.clashparadise.io/api/admin/status/database
+    url: https://clashparadise.io/api/admin/status/database
     __dangerous__body_degraded_if_text_missing: "operational"
     __dangerous__body_down: "outage"
   - name: Database (proxy)
-    url: https://staging.clashparadise.io/api/admin/status/database-proxy
+    url: https://clashparadise.io/api/admin/status/database-proxy
     __dangerous__body_degraded_if_text_missing: "operational"
     __dangerous__body_down: "outage"
   - name: Events
-    url: https://staging.clashparadise.io/api/admin/status/events
+    url: https://clashparadise.io/api/admin/status/events
     __dangerous__body_degraded_if_text_missing: "operational"
     __dangerous__body_down: "outage"
   - name: Compute
-    url: https://staging.clashparadise.io/api/admin/status/compute
+    url: https://clashparadise.io/api/admin/status/compute
     __dangerous__body_degraded_if_text_missing: "operational"
     __dangerous__body_down: "outage"
   - name: Email (primary)
-    url: https://staging.clashparadise.io/api/admin/status/email_primary
+    url: https://clashparadise.io/api/admin/status/email_primary
     __dangerous__body_degraded_if_text_missing: "operational"
     __dangerous__body_down: "outage"
   - name: Email (secondary)
-    url: https://staging.clashparadise.io/api/admin/status/email_secondary
+    url: https://clashparadise.io/api/admin/status/email_secondary
     __dangerous__body_degraded_if_text_missing: "operational"
     __dangerous__body_down: "outage"
   - name: Maintenance
-    url: https://staging.clashparadise.io/api/admin/status/maintenance
+    url: https://clashparadise.io/api/admin/status/maintenance
     __dangerous__body_degraded_if_text_missing: "operational"
   - name: Queues
     url: https://clashparadise.io/api/admin/status/queues
