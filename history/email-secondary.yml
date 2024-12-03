@@ -1,7 +1,7 @@
-url: https://staging.clashparadise.io/api/admin/status/email_secondary
+url: https://clashparadise.io/api/admin/status/email_secondary
 status: up
 code: 200
-responseTime: 148
-lastUpdated: 2024-12-02T23:05:03.999Z
+responseTime: 140
+lastUpdated: 2024-12-03T23:04:00.074Z
 startTime: 2024-05-27T20:10:11.678Z
 generator: Upptime <https://github.com/upptime/upptime>
