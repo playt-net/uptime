@@ -1,7 +1,7 @@
 url: https://clashparadise.io/api/admin/status/maintenance
-status: up
+status: degraded
 code: 200
-responseTime: 210
-lastUpdated: 2024-12-05T09:48:06.063Z
+responseTime: 142
+lastUpdated: 2024-12-05T18:07:06.669Z
 startTime: 2024-11-13T17:32:14.149Z
 generator: Upptime <https://github.com/upptime/upptime>
