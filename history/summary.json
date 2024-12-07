@@ -307,8 +307,8 @@
     "status": "degraded",
     "uptime": "82.73%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "69.94%",
-    "uptimeMonth": "91.40%",
+    "uptimeWeek": "69.80%",
+    "uptimeMonth": "91.37%",
     "uptimeYear": "82.73%",
     "time": 630,
     "timeDay": 301,
@@ -316,7 +316,7 @@
     "timeMonth": 1602,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2024-12-07": 718,
+      "2024-12-07": 732,
       "2024-12-06": 1440,
       "2024-12-05": 633,
       "2024-12-03": 239,
@@ -396,16 +396,16 @@
     "url": "https://clashparadise.io/api/admin/status/dlq",
     "icon": "https://icons.duckduckgo.com/ip3/clashparadise.io.ico",
     "slug": "dlq",
-    "status": "up",
-    "uptime": "89.29%",
-    "uptimeDay": "28.81%",
+    "status": "degraded",
+    "uptime": "89.31%",
+    "uptimeDay": "28.78%",
     "uptimeWeek": "24.03%",
     "uptimeMonth": "75.35%",
-    "uptimeYear": "89.29%",
+    "uptimeYear": "89.31%",
     "time": 373,
-    "timeDay": 236,
-    "timeWeek": 262,
-    "timeMonth": 413,
+    "timeDay": 238,
+    "timeWeek": 261,
+    "timeMonth": 412,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2024-12-07": 718,
@@ -440,7 +440,7 @@
       "2024-11-08": 29,
       "2024-11-07": 22,
       "2024-09-30": 236,
-      "2024-09-29": 50
+      "2024-09-29": 30
     }
   },
   {
