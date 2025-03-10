@@ -1118,10 +1118,10 @@
     "url": "https://cdy-staging-images.s3.fr-par.scw.cloud/6315c576a434b3c5d2a652cf/bannerKey",
     "icon": "https://icons.duckduckgo.com/ip3/cdy-staging-images.s3.fr-par.scw.cloud.ico",
     "slug": "test-asset",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1395,
@@ -1130,6 +1130,7 @@
     "timeMonth": 1320,
     "timeYear": 1395,
     "dailyMinutesDown": {
+      "2025-03-10": 1,
       "2024-09-25": 63
     }
   }
