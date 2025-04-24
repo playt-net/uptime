@@ -21,6 +21,14 @@ sites:
     url: https://clashparadise.io/api/admin/status/events
     __dangerous__body_degraded_if_text_missing: "operational"
     __dangerous__body_down: "outage"
+  - name: Event-Server
+    url: https://qrpc.staging.c.playt.net
+    __dangerous__body_degraded_if_text_missing: "operational"
+    __dangerous__body_down: "outage"
+  - name: Event-Server (staging)
+    url: https://qrpc.c.playt.net
+    __dangerous__body_degraded_if_text_missing: "operational"
+    __dangerous__body_down: "outage"
   - name: Compute
     url: https://clashparadise.io/api/admin/status/compute
     __dangerous__body_degraded_if_text_missing: "operational"
