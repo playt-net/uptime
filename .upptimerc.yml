@@ -22,9 +22,9 @@ sites:
     __dangerous__body_degraded_if_text_missing: "operational"
     __dangerous__body_down: "outage"
   - name: Event-Server
-    url: https://qrpc.c.playt.net
+    url: https://qrpc.c.playt.net/health
   - name: Event-Server (staging)
-    url: https://qrpc.staging.c.playt.net
+    url: https://qrpc.staging.c.playt.net/health
   - name: Compute
     url: https://clashparadise.io/api/admin/status/compute
     __dangerous__body_degraded_if_text_missing: "operational"
