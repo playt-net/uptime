@@ -33,10 +33,6 @@ sites:
     url: https://clashparadise.io/api/admin/status/email_primary
     __dangerous__body_degraded_if_text_missing: "operational"
     __dangerous__body_down: "outage"
-  - name: Email (secondary)
-    url: https://clashparadise.io/api/admin/status/email_secondary
-    __dangerous__body_degraded_if_text_missing: "operational"
-    __dangerous__body_down: "outage"
   - name: Maintenance
     url: https://clashparadise.io/api/admin/status/maintenance
     __dangerous__body_degraded_if_text_missing: "operational"
