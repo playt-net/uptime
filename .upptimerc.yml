@@ -47,6 +47,7 @@ sites:
     __dangerous__body_degraded_if_text_missing: "true"
   - name: Clash Paradise (staging)
     url: https://staging.clashparadise.io
+    maxRedirects: 5
   - name: Trinity Swap
     url: https://swap3.games.c.playt.net
   - name: Stack Jumper
