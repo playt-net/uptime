@@ -1,7 +1,7 @@
 url: https://qrpc.staging.c.playt.net/health
-status: up
-code: 200
-responseTime: 438
-lastUpdated: 2025-06-03T23:03:50.527Z
+status: down
+code: 503
+responseTime: 590
+lastUpdated: 2025-06-04T13:51:20.366Z
 startTime: 2025-04-24T11:12:04.816Z
 generator: Upptime <https://github.com/upptime/upptime>
