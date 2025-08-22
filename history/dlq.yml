@@ -1,7 +1,7 @@
 url: https://clashparadise.io/api/admin/status/dlq
-status: up
+status: degraded
 code: 200
-responseTime: 148
-lastUpdated: 2025-08-21T23:03:51.648Z
+responseTime: 231
+lastUpdated: 2025-08-22T06:11:44.684Z
 startTime: 2024-09-26T12:54:03.797Z
 generator: Upptime <https://github.com/upptime/upptime>
