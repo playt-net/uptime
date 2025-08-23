@@ -1,7 +1,7 @@
 url: https://clashparadise.io/api/admin/status/events
-status: up
-code: 200
-responseTime: 528
-lastUpdated: 2025-08-22T23:03:50.596Z
+status: degraded
+code: 0
+responseTime: 0
+lastUpdated: 2025-08-23T20:10:23.047Z
 startTime: 2024-05-27T20:10:12.867Z
 generator: Upptime <https://github.com/upptime/upptime>
