@@ -1,7 +1,7 @@
 url: https://clashparadise.io/api/admin/status/queues
-status: up
-code: 200
-responseTime: 463
-lastUpdated: 2025-09-01T11:54:34.701Z
+status: degraded
+code: 0
+responseTime: 0
+lastUpdated: 2025-09-01T15:26:57.227Z
 startTime: 2024-07-24T10:02:22.147Z
 generator: Upptime <https://github.com/upptime/upptime>
