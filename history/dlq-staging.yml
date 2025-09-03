@@ -1,7 +1,7 @@
 url: https://staging.clashparadise.io/api/admin/status/dlq
-status: degraded
-code: 0
-responseTime: 0
-lastUpdated: 2025-09-03T17:12:27.689Z
+status: up
+code: 200
+responseTime: 4430
+lastUpdated: 2025-09-03T17:20:30.150Z
 startTime: 2024-09-26T12:54:04.694Z
 generator: Upptime <https://github.com/upptime/upptime>
