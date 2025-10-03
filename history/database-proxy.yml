@@ -1,7 +1,7 @@
 url: https://clashparadise.io/api/admin/status/database-proxy
-status: up
-code: 200
-responseTime: 484
-lastUpdated: 2025-10-02T23:03:40.064Z
+status: degraded
+code: 500
+responseTime: 340
+lastUpdated: 2025-10-03T13:42:06.932Z
 startTime: 2024-11-13T17:32:11.781Z
 generator: Upptime <https://github.com/upptime/upptime>
