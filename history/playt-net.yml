@@ -1,7 +1,7 @@
 url: https://playt.net
-status: up
-code: 200
-responseTime: 667
-lastUpdated: 2025-11-18T12:15:13.596Z
+status: down
+code: 500
+responseTime: 129
+lastUpdated: 2025-11-18T13:18:56.317Z
 startTime: 2024-05-08T09:09:26.889Z
 generator: Upptime <https://github.com/upptime/upptime>
