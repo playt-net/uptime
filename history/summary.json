@@ -671,19 +671,19 @@
     "url": "https://clashparadise.io/api/admin/status/dlq",
     "icon": "https://icons.duckduckgo.com/ip3/clashparadise.io.ico",
     "slug": "dlq",
-    "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "20.61%",
-    "uptimeWeek": "33.09%",
-    "uptimeMonth": "75.78%",
-    "uptimeYear": "97.98%",
+    "status": "degraded",
+    "uptime": "98.50%",
+    "uptimeDay": "23.03%",
+    "uptimeWeek": "33.08%",
+    "uptimeMonth": "76.48%",
+    "uptimeYear": "98.04%",
     "time": 247,
-    "timeDay": 256,
+    "timeDay": 259,
     "timeWeek": 259,
     "timeMonth": 259,
     "timeYear": 248,
     "dailyMinutesDown": {
-      "2026-01-15": 198,
+      "2026-01-15": 199,
       "2026-01-14": 1087,
       "2026-01-13": 1146,
       "2026-01-12": 990,
@@ -693,8 +693,7 @@
       "2026-01-08": 346,
       "2026-01-07": 1295,
       "2026-01-06": 1136,
-      "2026-01-05": 1259,
-      "2026-01-04": 21
+      "2026-01-05": 975
     }
   },
   {
