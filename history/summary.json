@@ -674,18 +674,19 @@
     "url": "https://clashparadise.io/api/admin/status/dlq",
     "icon": "https://icons.duckduckgo.com/ip3/clashparadise.io.ico",
     "slug": "dlq",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.86%",
-    "uptimeDay": "96.48%",
-    "uptimeWeek": "58.14%",
-    "uptimeMonth": "81.85%",
+    "uptimeDay": "96.39%",
+    "uptimeWeek": "61.13%",
+    "uptimeMonth": "81.91%",
     "uptimeYear": "98.49%",
     "time": 248,
-    "timeDay": 223,
+    "timeDay": 235,
     "timeWeek": 252,
     "timeMonth": 257,
     "timeYear": 249,
     "dailyMinutesDown": {
+      "2026-01-24": 1,
       "2026-01-23": 51,
       "2026-01-22": 51,
       "2026-01-21": 553,
@@ -696,7 +697,7 @@
       "2026-01-16": 1146,
       "2026-01-15": 1057,
       "2026-01-14": 1087,
-      "2026-01-13": 442
+      "2026-01-13": 415
     }
   },
   {
@@ -761,7 +762,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.clashparadise.io.ico",
     "slug": "clash-paradise-staging",
     "status": "up",
-    "uptime": "80.45%",
+    "uptime": "80.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.81%",
