@@ -1,7 +1,7 @@
 url: https://staging.clashparadise.io/api/admin/status/dlq
 status: degraded
-code: 404
-responseTime: 249
-lastUpdated: 2026-03-09T09:28:09.474Z
+code: 0
+responseTime: 0
+lastUpdated: 2026-03-09T23:07:14.669Z
 startTime: 2024-09-26T12:54:04.694Z
 generator: Upptime <https://github.com/upptime/upptime>
